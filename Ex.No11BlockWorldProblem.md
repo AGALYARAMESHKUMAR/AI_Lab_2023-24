@@ -67,11 +67,3 @@ Thus the plan was found for the initial and goal state of block world problem.
 
 
 
-### Input 
-
-### Output/Plan:
-
-
-
-### Result:
-Thus the plan was found for the initial and goal state of block world problem.

@@ -9,7 +9,6 @@ Step 1: Start the program
 Step 2 : Create a domain for Monkey Banana Problem.
 Step 3: Create a domain by specifying predicates.
 Step 4: Specify the actions GOTO, CLIMB, PUSH-BOX, GET-KNIFE, GRAB-BANANAS in Monkey Banana problem.
-
 Step 5: Define a problem for Monkey Banana problem.
 Step 6: Obtain the plan for given problem.
 Step 7: Stop the program.

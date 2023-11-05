@@ -1,11 +1,12 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
-## DATE:                                                                            
+# DATE:                                                                            
 ## REGISTER NUMBER :212222040003 
+
 ## AIM: 
 To write a program to train the classifier for Diabetes Prediction
 
 ## Algorithm:
-1.Start the program./
+1.Start the program.
 
 2.Import required Python libraries, including NumPy, Pandas, Google Colab, Gradio, and various scikit-learn modules.
 
@@ -98,7 +99,10 @@ app.launch(share=True)
 ```
 
 ## Output:
+![image](https://github.com/AGALYARAMESHKUMAR/AI_Lab_2023-24/assets/119394395/b66a4a6e-02e9-4a88-961f-bd7764773b8d)
+![image](https://github.com/AGALYARAMESHKUMAR/AI_Lab_2023-24/assets/119394395/ba03ad0c-68fa-4238-a67f-e12cf7ae7286)
 
+![image](https://github.com/AGALYARAMESHKUMAR/AI_Lab_2023-24/assets/119394395/6d9179df-6c6a-442f-a06c-7b23b955fe8e)
 
 ## Result:
 Thus the system was trained successfully and the prediction was carried out.

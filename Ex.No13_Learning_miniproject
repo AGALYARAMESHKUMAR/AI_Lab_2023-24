@@ -5,7 +5,7 @@
 To write a program to train the classifier for Diabetes Prediction
 
 ## Algorithm:
-1.Start the program.
+1.Start the program./
 
 2.Import required Python libraries, including NumPy, Pandas, Google Colab, Gradio, and various scikit-learn modules.
 
